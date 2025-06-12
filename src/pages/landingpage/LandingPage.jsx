@@ -1,4 +1,4 @@
-import "./landingPage.css";
+import "./landingpage.css";
 import { FaHeart } from "react-icons/fa";
 import { BsFillTabletFill } from "react-icons/bs";
 import { FaHandHoldingHeart } from "react-icons/fa6";
